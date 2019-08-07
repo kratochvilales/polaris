@@ -22,7 +22,7 @@ const (
 	SeverityIgnore Severity = "ignore"
 
 	// SeverityWarning warns on validation failures
-	SeverityWarning Severity = "warning"
+	SeverityWarning Severity = "error"
 
 	// SeverityError errors on validation failures
 	SeverityError Severity = "error"
